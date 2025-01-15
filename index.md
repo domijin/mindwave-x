@@ -1,5 +1,5 @@
 <head>
-  <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="https://domij.info/mindwave-x/assets/favicon.png" type="image/x-icon">
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-4YC775YV2T"></script>
   <script>
@@ -12,7 +12,7 @@
 </head>
 
 # MindWave X, Inc 
-![logo](assets/Logo.png)
+![logo](https://domij.info/mindwave-x/assets/Logo.png)
 
 ## Our Business
 We make a device that transcribes conversations into time-stamped and speaker-annotated notes with summaries.
@@ -33,7 +33,7 @@ From augmented intelligence, to artificial intelligence, MindWave will transform
     - Human is still more intelligent
     - A.I. should enhance human intelligence
 
-![AI safety](assets/GD.png)
+![AI safety](https://domij.info/mindwave-x/assets/GD.png)
 
 ### Our solutions
 - Intelligent meeting note taker It detects speech
@@ -53,4 +53,4 @@ From augmented intelligence, to artificial intelligence, MindWave will transform
 -  2022-2023: I worked at a pre-seed full-remote startup as applied scientist, to learn about marketplace & pricing. I practiced leading new innovative initiative and leadership. Failed. 
 - 2023-2024: I helped my friends with only B2B corporate experience raise over $2M for a B2C startup. Served as advisor, while working full time at an IPO $startup$ in the research scientist team. Learning about the lean culture and large-scale performance advertising ad delivery system. 
 - 2024-11: I started a [substack](https://domijin.substack.com) about my new attempt to realize the vision. 
-- 2024-12: [Kin Domi](kindomi.net) was officially incorporated to carry out the vision with a focus on mental wellbeing for seniors. 
+- 2024-12: [Kin Domi](kindomi.net) was officially incorporated to carry on the vision with a focus on mental wellbeing for seniors. 
